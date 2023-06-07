@@ -1,0 +1,13 @@
+.logo-wall {
+	margin-top: 3.5rem;
+	max-width: 100%;
+	overflow: hidden;
+}
+
+.lw-inner {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	min-width: 1200px;
+	overflow-x: auto;
+}

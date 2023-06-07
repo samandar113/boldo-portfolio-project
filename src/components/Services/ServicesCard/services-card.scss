@@ -1,0 +1,24 @@
+@import "../../variables.scss";
+
+.services-card {
+	max-width: 300px; 
+}
+
+.s-card-text-block {
+	margin-top: 1.5rem;
+}
+
+.s-card-subtitle {
+	margin-top: 0.75rem;
+}
+
+.link-button {
+	display: inline-flex;
+	gap: .75rem;
+	align-items: center;
+	margin-top: 1.75rem;
+	font-weight: 700;
+	color: $primary;
+	padding-bottom: .5rem;
+	border-bottom: 1px solid $primary;
+}

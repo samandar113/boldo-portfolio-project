@@ -1,0 +1,22 @@
+
+.ar-card, .ar-card-content {
+	min-height: 100%;
+}
+.ar-author-avatar {
+	width: 32px;
+	height: 32px;
+}
+
+.ar-author-name {
+	color: #000;
+	font-weight: 400;
+}
+
+.ar-card-content {
+	display: grid;
+}
+
+.ar-author-block {
+	gap: .75rem;
+	align-self: end;
+}
