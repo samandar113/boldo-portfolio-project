@@ -9,7 +9,7 @@ export default function TesCard({img, title, authorName, jobTitle}) {
 				</h3>
 				<div className="tes-author-block">
 					<div className="tes-author-avatar">
-						<img loading="lazy" src={img} alt="author-avatar" />
+						<img src={img} alt="author-avatar" />
 					</div>
 					<div className="tes-author-text-block">
 						<h4 className="tes-author-name text-primary">{authorName}</h4>

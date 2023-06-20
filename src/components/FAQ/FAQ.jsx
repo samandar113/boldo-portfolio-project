@@ -10,7 +10,7 @@ export default function FAQ() {
 		<section className="faq">
 			<div className="container faq-inner">
 				<div className="img-wrapper faq-img-wrapper">
-					<img loading="lazy" src={FAQBanner} alt="faq-img" />
+					<img src={FAQBanner} alt="faq-img" />
 				</div>
 				<div className="faq-text-block">
 					<h3 className="heading-2 faq-title">We connect our customers with the best, and help them keep up-and stay open.</h3>

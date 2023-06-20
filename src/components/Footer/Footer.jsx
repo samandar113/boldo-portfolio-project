@@ -23,7 +23,7 @@ export default function Footer() {
 			<div className="container f-inner">
 				<div className="f-cr-text-block">
 					<div className="f-logo img-wrapper">
-						<img loading="lazy" src={FooterLogo} alt="footer-logo" />
+						<img src={FooterLogo} alt="footer-logo" />
 					</div>
 					<p className="text-gray f-title">
 						Social media validation business model canvas graphical

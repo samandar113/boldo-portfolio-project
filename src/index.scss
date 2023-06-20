@@ -127,6 +127,12 @@ a {
   transition: all 0.3s ease;
 }
 
+.button.text-primary.outlined:hover {
+  background-color: $primary;
+  color: white;
+  transition: all 0.3s ease;
+}
+
 .button.large {
   padding: 1rem 3.5rem;
   font-size: 1.25rem;

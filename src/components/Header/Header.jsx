@@ -14,7 +14,6 @@ export default function Header() {
 			<div className="container header-inner">
 				<div className="header-logo-wrapper">
 					<img
-						loading="lazy"
 						src={HeaderLogo}
 						alt="header-logo"
 						className="header-logo"

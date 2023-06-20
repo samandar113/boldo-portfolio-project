@@ -11,7 +11,7 @@ export default function LogoWall() {
 					if(item % 2 == 0) {
 						return (
 							<div key={item} className="img-wrapper logo-wall-item">
-								<img loading="lazy" 
+								<img 
 								src={Presto} alt="presto-logo" />
 							</div>
 						)

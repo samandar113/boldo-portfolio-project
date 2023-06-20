@@ -25,7 +25,7 @@ export default function Hero() {
 					</div>
 				</div>
 				<div className="hero-img">
-					<img loading="lazy" src={HeroImg} alt="hero-img" />
+					<img src={HeroImg} alt="hero-img" />
 				</div>
 			</div>
 			<LogoWall />

@@ -8,7 +8,7 @@ export default function ServicesCard() {
 		<div className="services-card">
 			<div className="s-card-content">
 				<div className="img-wrapper s-card-img">
-					<img loading="lazy" src={ServicesCardImg1} alt="services-card-img" />
+					<img src={ServicesCardImg1} alt="services-card-img" />
 				</div>
 				<div className="s-card-text-block">
 					<h3 className="s-card-title subtitle-1">Cool feature title</h3>
